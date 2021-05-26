@@ -2,7 +2,7 @@
   "name": "my-udemy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shohruzjon-tech.github.io/Monsters-rolodex",
+  "homepage": "https://shohruzjon-tech.github.io/monsters-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
@@ -18,8 +18,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"yarn build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
